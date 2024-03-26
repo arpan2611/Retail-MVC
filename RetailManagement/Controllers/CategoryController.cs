@@ -7,6 +7,7 @@ namespace RetailManagement.Controllers
         public IActionResult Index()
         {
             return View();
+            //ex1 on master
         }
     }
 }
