@@ -9,5 +9,7 @@ namespace RetailManagement.Models
         
         public string Name { get; set; }
         //hii this is DateOnly comcom1;
+        //hii comcom2
+        //hii this is from homcom;
     }
 }
