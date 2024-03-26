@@ -8,6 +8,6 @@ namespace RetailManagement.Models
         public int Id { get; set; }
         
         public string Name { get; set; }
-        public int CategoryOrder { get; set; }
+        //hii this is DateOnly comcom1;
     }
 }
