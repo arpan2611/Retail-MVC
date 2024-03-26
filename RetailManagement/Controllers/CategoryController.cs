@@ -8,6 +8,7 @@ namespace RetailManagement.Controllers
         {
             return View();
             //ex1 on master
+            //ex2 on master
         }
     }
 }
